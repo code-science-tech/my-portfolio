@@ -1,5 +1,5 @@
 import DOTNET from './NET.svg'
-import CSharp from './C#-(CSharp).svg'
+import CSharp from './csharp.svg'
 import Java from './Java.svg'
 import DotNetCore from './NET-core.svg'
 import SQL from './SQL-Developer.svg'
