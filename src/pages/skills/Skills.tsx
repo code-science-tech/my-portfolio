@@ -1,5 +1,4 @@
 import '../skills/Skills.css';
-import {DOTNET} from '../../assets/images'
 import { SkillData } from '../../utils/dataConstant';
 
 interface SkillsProps {
